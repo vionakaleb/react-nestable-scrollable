@@ -1,3 +1,5 @@
+## Forked from react-nestable, fixed dragging upon scroll.
+
 ## Table of Contents
 
 - [Demo](#demo)
@@ -15,18 +17,18 @@
 ## Installation
 
 ```
-npm install -save react-nestable
+npm install -save react-nestable-scrollable
 ```
 
 ## Usage
 
 ```
-import Nestable from 'react-nestable';
+import Nestable from 'react-nestable-scrollable';
 
 // this usually goes once
 // to the entry point of the whole app
 // (e.g. src/index.js)
-import 'react-nestable/dist/styles/index.css';
+import 'react-nestable-scrollable/dist/styles/index.css';
 ```
 every item must have a unique `id` in order to distinguish elements
 ```
