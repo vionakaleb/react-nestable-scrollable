@@ -8,7 +8,7 @@ import {
   isArray,
   closest,
   getOffsetRect,
-  getTotalScroll,
+  // getTotalScroll,
   getTransformProps,
   listWithChildren,
   getAllNonEmptyNodesIds,
