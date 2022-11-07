@@ -1,4 +1,4 @@
-declare module 'react-nestable-scrollable' {
+declare module 'react-nestable-scrollable2' {
   import * as React from 'react';
 
   export type Item = Record<string, any>;

@@ -17,18 +17,18 @@
 ## Installation
 
 ```
-npm install -save react-nestable-scrollable
+npm install -save react-nestable-scrollable2
 ```
 
 ## Usage
 
 ```
-import Nestable from 'react-nestable-scrollable';
+import Nestable from 'react-nestable-scrollable2';
 
 // this usually goes once
 // to the entry point of the whole app
 // (e.g. src/index.js)
-import 'react-nestable-scrollable/dist/styles/index.css';
+import 'react-nestable-scrollable2/dist/styles/index.css';
 ```
 every item must have a unique `id` in order to distinguish elements
 ```
